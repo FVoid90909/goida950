@@ -1,0 +1,30 @@
+img{
+	min-height: 666px;
+	min-width: 1488px;
+	max-height: 666px;
+	max-width: 1488px;
+}
+
+.dmc {
+	font-size: 50px;
+	
+}
+
+h1 {
+	 text-align: center;
+}
+
+body{
+	color: black;
+}
+
+li{
+	font-size: 50;
+}
+
+.container{
+	margin: 0 8%;
+	background-color: white;
+}
+/* */
+padding 
